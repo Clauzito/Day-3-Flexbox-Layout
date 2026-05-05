@@ -1,0 +1,5 @@
+- HTML semântico (header, main, aside, footer)
+- Flexbox para layout
+- Hover effects na navegação
+- Transform + transition
+- Uso de <details>
